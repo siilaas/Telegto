@@ -244,6 +244,7 @@ function create_config( )
     "rules",
     "settings",
     "spam",
+    "badword",
     "version",
     },
   enabled_lang = {
